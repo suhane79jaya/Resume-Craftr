@@ -1,3 +1,4 @@
+//This file is would be added in src/pages
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-grid-system";
 import { useParams, Link, useNavigate } from "react-router-dom";
