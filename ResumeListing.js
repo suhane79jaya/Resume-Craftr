@@ -1,3 +1,4 @@
+//This file is would be added in src/pages
 import React, { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 
